@@ -13,3 +13,6 @@
 
 ### 회의록
 ![](https://images.velog.io/images/odh0112/post/2196dd34-471b-4611-a324-58ec647d80f8/%ED%9A%8C%EC%9D%98%EB%A1%9D.PNG)
+
+### 가상화폐 주소
+0xA8664f1256bDfF3473B42449a03d07e994053654
