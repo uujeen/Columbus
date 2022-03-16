@@ -19,8 +19,6 @@
 - 총 발행량 :  100,000,000 COL
 - 가상화폐 지갑 주소 : 0xA8664f1256bDfF3473B42449a03d07e994053654
 
-## Test 오댕오댕
-
 ### 메타휴먼 
 ![METAHUMAN1](https://user-images.githubusercontent.com/70149604/158390320-f005c371-9593-40ea-a775-6dba97d3d025.gif)
 
