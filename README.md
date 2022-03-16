@@ -28,11 +28,11 @@ COVID-19 팬데믹 이후 많은 사람들이 해외뿐만 아니라 국내에�
 
 22-2-7 - 지형 초안 제작, Columbus 코인 제작 , 코인 거래 방법 재구상, realtime- 적용 방법 모색)
 
-22-2-15 - realtime 수동 가능, 자동 방법 모색, 아바타 제작 난항 -> METAHUMAN 우회
+22-2-15 - Realtime 수동 가능, 자동 방법 모색, 아바타 제작 난항 -> METAHUMAN 우회
 
 22-2-28 - QGIS를 이용하여 Height 맵 추출 및 엔진에 적용하여 실제와 유사한 울릉도 모형 제작 진행, METAHUMAN 엔진에 적용시키기
 
-22-3-7 - heightmapper로 우회, InstantTerra를 이용하여 더 명확한 지형 제작 진행
+22-3-7 - Heightmapper로 우회, InstantTerra를 이용하여 더 명확한 지형 제작 진행
 
 22-3-15 - InstantTerra 제작 실패(HeightMap 적용 X -> 원하는 결과 도출 X), 150:1 사이즈로 지형 제작, METAHUMAN 엔진에 적용
 
