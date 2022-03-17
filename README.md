@@ -60,3 +60,9 @@ COVID-19 팬데믹 이후 많은 사람들이 해외뿐만 아니라 국내에�
 ### 메타휴먼 
 ![METAHUMAN1](https://user-images.githubusercontent.com/70149604/158390320-f005c371-9593-40ea-a775-6dba97d3d025.gif)
 
+### 지형
+![island2](https://user-images.githubusercontent.com/71745798/158739550-a36b4556-8782-4013-af96-f7c5ebfc7406.PNG)
+
+### 가상화폐
+![columbus](https://user-images.githubusercontent.com/71745798/158739595-ea43cbe6-7bbf-483f-8c4c-37daee5cc185.PNG)
+
