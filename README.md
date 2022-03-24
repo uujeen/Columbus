@@ -66,8 +66,6 @@ COVID-19 팬데믹 이후 많은 사람들이 해외뿐만 아니라 국내에�
 
 ### 메타휴먼 
 
-![METAHUMAN1](https://user-images.githubusercontent.com/70149604/158390320-f005c371-9593-40ea-a775-6dba97d3d025.gif)
-
 아 진짜 뚜껑 열리네~!
 
 ![METAHUMAN2](https://user-images.githubusercontent.com/70149604/159852013-9620d27c-31e1-48b3-b672-c5424c90a88a.gif)
