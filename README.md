@@ -81,8 +81,7 @@ COVID-19 팬데믹 이후 많은 사람들이 해외뿐만 아니라 국내에�
 
 <img src="https://user-images.githubusercontent.com/71745798/158739550-a36b4556-8782-4013-af96-f7c5ebfc7406.PNG" width="600"/>
 
-![지형 도로구축](https://user-images.githubusercontent.com/70149604/162118242-39ae4b62-fe17-43f2-b80e-a628093f2555.png)
 
-![도로 위 캐릭터](https://user-images.githubusercontent.com/70149604/162118262-c20cb024-9308-42cc-a5f3-51dcc90b6750.png)
+![크기변환 지형 도로구축](https://user-images.githubusercontent.com/70149604/162118452-461bd39f-75d0-43c8-946e-602d8e4cef1a.png)
 
 
