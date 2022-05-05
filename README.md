@@ -81,8 +81,12 @@ COVID-19 팬데믹 이후 많은 사람들이 해외뿐만 아니라 국내에�
 ![METAHUMAN2](https://user-images.githubusercontent.com/70149604/159852013-9620d27c-31e1-48b3-b672-c5424c90a88a.gif)
 
 
+
+
 캐릭터 완성
 ![Metahuman3](https://user-images.githubusercontent.com/70149604/166860008-ac8b3ae0-59f1-4fa6-857e-8b4d237d0355.gif)
+
+
 
 
 서버 연결 
