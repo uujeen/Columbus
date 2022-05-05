@@ -84,12 +84,14 @@ COVID-19 팬데믹 이후 많은 사람들이 해외뿐만 아니라 국내에�
 
 
 캐릭터 완성
+
 ![Metahuman3](https://user-images.githubusercontent.com/70149604/166860008-ac8b3ae0-59f1-4fa6-857e-8b4d237d0355.gif)
 
 
 
 
 서버 연결 
+
 ![Metahuman4](https://user-images.githubusercontent.com/70149604/166860016-cec29591-82e5-471d-80e0-5cf5fc87ac94.gif)
 
 
