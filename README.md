@@ -120,3 +120,9 @@ Stamp 텍스처 수정
 ![도로 위 캐릭터](https://user-images.githubusercontent.com/70149604/162118489-28d2a18f-d143-4bcc-bc70-185f3a013d1a.png)
 
 
+![image](https://user-images.githubusercontent.com/71745798/170625702-5375364c-02f7-4d1f-bc44-e3d6e45701d8.png)
+
+
+![image](https://user-images.githubusercontent.com/71745798/170625618-10811ad7-96f0-4348-8e8a-5665f2e93b5d.png)
+
+
